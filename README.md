@@ -1,0 +1,5 @@
+- I’m Rajat Singh <@Rajatkumar0662>
+- I'm interested in Flutter, React, Django, Machine Learning, Data Science etc.
+- Currently learning MERN, MEAN
+- I'm looking to colaborate on Flutter, React, Machince Learning Projects.
+- 📫 One can reach me through my Linked in Page <Rajatkumar0662>
